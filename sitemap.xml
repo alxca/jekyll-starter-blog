@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
 	<url>
-		<loc>https://sutanlab.js.org</loc>
+		<loc>https://sutanlab.js.org/blog/</loc>
 	</url>
 	
-	  <url>
-			<loc>https://sutanlab.js.org/blog/</loc>
-	  </url>
+	<url>
+		<loc>https://sutanlab.js.org/blog/series</loc>
+	</url>
 	
-	  <url>
-			<loc>https://sutanlab.js.org/blog/series</loc>
-	  </url>
-	
-	  <url>
-			<loc>https://sutanlab.js.org/blog/tags</loc>
-	  </url>
+	<url>
+		<loc>https://sutanlab.js.org/blog/tags</loc>
+	</url>
 	
 	
-	  <url>
+	<url>
 		<loc>https://sutanlab.js.org/blog/it-fest-bersama-it-polsri/</loc>
-	  </url>
+	</url>
 	
-	  <url>
+	<url>
 		<loc>https://sutanlab.js.org/blog/berkenalan-dengan-pdo-di-php/</loc>
-	  </url>
+	</url>
 	
-	  <url>
+	<url>
 		<loc>https://sutanlab.js.org/blog/apakah-php-akan-mati/</loc>
-	  </url>
+	</url>
 	
 </urlset>
