@@ -1,20 +1,32 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>{{ site.url }}</loc>
+		<loc>https://sutanlab.js.org</loc>
 	</url>
-	{% for link in site.links %}
+	
 	  <url>
-			<loc>{{ link.url | prepend: site.baseurl | prepend: site.url }}</loc>
+			<loc>https://sutanlab.js.org/blog/</loc>
 	  </url>
-	{% endfor %}
-	{% for post in site.posts %}
+	
 	  <url>
-		<loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
+			<loc>https://sutanlab.js.org/blog/series</loc>
 	  </url>
-	{% endfor %}
+	
+	  <url>
+			<loc>https://sutanlab.js.org/blog/tags</loc>
+	  </url>
+	
+	
+	  <url>
+		<loc>https://sutanlab.js.org/blog/it-fest-bersama-it-polsri/</loc>
+	  </url>
+	
+	  <url>
+		<loc>https://sutanlab.js.org/blog/berkenalan-dengan-pdo-di-php/</loc>
+	  </url>
+	
+	  <url>
+		<loc>https://sutanlab.js.org/blog/apakah-php-akan-mati/</loc>
+	  </url>
+	
 </urlset>

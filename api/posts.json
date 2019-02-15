@@ -1,15 +1,27 @@
----
-layout: null
----
-
 [
-  {% for post in site.posts %}
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.categories }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date_to_string}}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "IT FESTIVAL bersama IT POLSRI",
+      "category" : "My Life Story",
+      "tags"     : "itpolsri and developer",
+      "url"      : "/blog/it-fest-bersama-it-polsri/",
+      "date"     : "22 Nov 2018"
+    } ,
+  
+    {
+      "title"    : "Berkenalan Dengan PDO di PHP",
+      "category" : "Belajar PHP - PDO",
+      "tags"     : "php",
+      "url"      : "/blog/berkenalan-dengan-pdo-di-php/",
+      "date"     : "26 Oct 2018"
+    } ,
+  
+    {
+      "title"    : "Apakah PHP akan mati ?",
+      "category" : "Programming",
+      "tags"     : "web and php",
+      "url"      : "/blog/apakah-php-akan-mati/",
+      "date"     : "14 Oct 2018"
+    } 
+  
 ]
