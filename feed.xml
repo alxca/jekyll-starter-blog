@@ -3,34 +3,18 @@
   <channel>
     <title>Sutan Nst. - Coder</title>
     <description>A blog and journal about Sutan Nst, Junior Developer</description>
-    <link>https://sutanlab.js.org/blog/</link>
-    <atom:link href="https://sutanlab.js.org/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Feb 2019 20:36:02 +0700</pubDate>
-    <lastBuildDate>Fri, 15 Feb 2019 20:36:02 +0700</lastBuildDate>
+    <link>https://sutanlab.js.org/jekyll-starter-blog/</link>
+    <atom:link href="https://sutanlab.js.org/jekyll-starter-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Apr 2019 23:46:08 +0700</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2019 23:46:08 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>IT FESTIVAL bersama IT POLSRI</title>
-        <description>&lt;p&gt;Saat itu, kami sedang mengikuti pelajaran Multimedia di kelas dan kebetulan masih ada dosen yang sedang mengajar disana. Tiba - tiba datanglah rombongan mahasiswa dari jurusan MI (Manajemen Informatika) untuk membagi tau bahwa dalam dekat ini akan ada festival tahunan yang selalu diselenggarakan oleh jurusan mereka. Ya, festival itu bernama &lt;code class=&quot;highlighter-rouge&quot;&gt;IT FEST&lt;/code&gt;. Singkat cerita mereka menjelaskan event - eventnya. lalu kemudian kami tertarik dengan salah satu event mereka, yaitu Lomba &lt;code class=&quot;highlighter-rouge&quot;&gt;Web Programming&lt;/code&gt;.&lt;/p&gt; &lt;p&gt;Kami ber 4 tertarik untuk mengikuti lomba tersebut. Namun, sayangnya lomba tersebut dibatasi maksimal 2 orang per tim. Setelah sekian waktu berunding, akhirnya kami dapat keputusan...</description>
-        <pubDate>Thu, 22 Nov 2018 08:54:46 +0700</pubDate>
-        <link>https://sutanlab.js.org/blog/it-fest-bersama-it-polsri/</link>
-        <guid isPermaLink="true">https://sutanlab.js.org/blog/it-fest-bersama-it-polsri/</guid>
-        
-        <category>itpolsri</category>
-        
-        <category>developer</category>
-        
-        
-        <category>My Life Story</category>
-        
-      </item>
     
       <item>
         <title>Berkenalan Dengan PDO di PHP</title>
         <description>&lt;h2 id=&quot;apa-itu-pdo-&quot;&gt;Apa itu PDO ?&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;“&lt;strong&gt;&lt;em&gt;PDO - PHP Data Object&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;adalah lapisan akses database yang menyediakan metode akses yang seragam ke beberapa database.&lt;/em&gt;”&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;PDO (PHP Data Object) adalah interface universal yang disediakan PHP untuk “berkomunikasi” dengan database server. Maksud istilah “interface universal” disini adalah bahwa PDO tidak terikat dengan aplikasi database tertentu. Apabila saat ini kita menggunakan database MySQL dan dikemudian hari ingin bermigrasi menggunakan PostgreSQL, kita hanya tinggal mengganti cara pemanggilan awal PDO dan seluruh kode program yang ada bisa langsung digunakan untuk database baru.&lt;/p&gt; &lt;p&gt;Kondisi ini berbeda jika menggunakan mysql extension atau mysqli extension. Kedua extension...</description>
         <pubDate>Fri, 26 Oct 2018 22:29:02 +0700</pubDate>
-        <link>https://sutanlab.js.org/blog/berkenalan-dengan-pdo-di-php/</link>
-        <guid isPermaLink="true">https://sutanlab.js.org/blog/berkenalan-dengan-pdo-di-php/</guid>
+        <link>https://sutanlab.js.org/jekyll-starter-blog/berkenalan-dengan-pdo-di-php/</link>
+        <guid isPermaLink="true">https://sutanlab.js.org/jekyll-starter-blog/berkenalan-dengan-pdo-di-php/</guid>
         
         <category>php</category>
         
@@ -40,18 +24,16 @@
       </item>
     
       <item>
-        <title>Apakah PHP akan mati ?</title>
-        <description>&lt;p&gt;Pada tahun 1995, PHP muncul sebagai salah satu bahasa scripting server-side yang paling terkenal yang dirancang dan dikembangkan untuk pengembangan situs web.&lt;/p&gt; &lt;p&gt;Hari ini, kita dapat mengatakan bahwa sebagian besar pengembangan web server-wide didominasi oleh PHP. Selain itu, situs web yang seperti Facebook dan Wikipedia serta situs CMS seperti Joomla, Drupal, Magento dan WordPress dibangun di PHP.&lt;/p&gt; &lt;h2 id=&quot;apa-itu-php-&quot;&gt;Apa itu PHP ?&lt;/h2&gt; &lt;p&gt;PHP atau Hypertext Pre-processor adalah Bahasa scripting server-side yang banyak digunakan untuk pengembangan web dan untuk keperluan umum lainnya.&lt;/p&gt; &lt;p&gt;PHP memiliki kompatibilitas yang baik dengan HTML dan dapat diatur ke dalam HTML dengan mudah, terutama mengelola sisi server.&lt;/p&gt;...</description>
-        <pubDate>Sun, 14 Oct 2018 09:19:15 +0700</pubDate>
-        <link>https://sutanlab.js.org/blog/apakah-php-akan-mati/</link>
-        <guid isPermaLink="true">https://sutanlab.js.org/blog/apakah-php-akan-mati/</guid>
+        <title>Text Formatting Examples</title>
+        <description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt; &lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt; &lt;h2 id=&quot;basic-formatting&quot;&gt;Basic Formatting&lt;/h2&gt; &lt;p&gt;With Markdown, it is possible to emphasize words by making them &lt;em&gt;italicized&lt;/em&gt;, using &lt;em&gt;astericks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;, or making them &lt;strong&gt;bold&lt;/strong&gt;, using &lt;strong&gt;double astericks&lt;/strong&gt; or &lt;strong&gt;double underscores&lt;/strong&gt;. Of course, you can combine those two formats, with both &lt;em&gt;&lt;strong&gt;bold and italicized&lt;/strong&gt;&lt;/em&gt; text, using any combination of the above syntax. You can also add a strikethrough...</description>
+        <pubDate>Fri, 26 Oct 2018 06:26:00 +0700</pubDate>
+        <link>https://sutanlab.js.org/jekyll-starter-blog/text-formatting-examples/</link>
+        <guid isPermaLink="true">https://sutanlab.js.org/jekyll-starter-blog/text-formatting-examples/</guid>
         
-        <category>web</category>
-        
-        <category>php</category>
+        <category>markdown</category>
         
         
-        <category>Programming</category>
+        <category>Example</category>
         
       </item>
     

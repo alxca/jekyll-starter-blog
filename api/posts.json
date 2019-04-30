@@ -1,27 +1,19 @@
 [
   
     {
-      "title"    : "IT FESTIVAL bersama IT POLSRI",
-      "category" : "My Life Story",
-      "tags"     : "itpolsri and developer",
-      "url"      : "/blog/it-fest-bersama-it-polsri/",
-      "date"     : "22 Nov 2018"
-    } ,
-  
-    {
       "title"    : "Berkenalan Dengan PDO di PHP",
       "category" : "Belajar PHP - PDO",
       "tags"     : "php",
-      "url"      : "/blog/berkenalan-dengan-pdo-di-php/",
+      "url"      : "/jekyll-starter-blog/berkenalan-dengan-pdo-di-php/",
       "date"     : "26 Oct 2018"
     } ,
   
     {
-      "title"    : "Apakah PHP akan mati ?",
-      "category" : "Programming",
-      "tags"     : "web and php",
-      "url"      : "/blog/apakah-php-akan-mati/",
-      "date"     : "14 Oct 2018"
+      "title"    : "Text Formatting Examples",
+      "category" : "Example",
+      "tags"     : "markdown",
+      "url"      : "/jekyll-starter-blog/text-formatting-examples/",
+      "date"     : "26 Oct 2018"
     } 
   
 ]

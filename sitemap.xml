@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	
-	
-	
 	<url>
-		<loc>https://sutanlab.js.org/blog/</loc>
+		<loc>https://sutanlab.js.org/jekyll-starter-blog/</loc>
 	</url>
 	
 	
 	
 	<url>
-		<loc>https://sutanlab.js.org/blog/series</loc>
+		<loc>https://sutanlab.js.org/jekyll-starter-blog/series</loc>
 	</url>
 	
 	
 	
 	<url>
-		<loc>https://sutanlab.js.org/blog/tags</loc>
+		<loc>https://sutanlab.js.org/jekyll-starter-blog/tags</loc>
 	</url>
 	
 	
 	
 	<url>
-		<loc>https://sutanlab.js.org/blog/it-fest-bersama-it-polsri/</loc>
+		<loc>https://sutanlab.js.org/jekyll-starter-blog/about</loc>
+	</url>
+	
+	
+	
+	<url>
+		<loc>https://sutanlab.js.org/jekyll-starter-blog/berkenalan-dengan-pdo-di-php/</loc>
 	</url>
 	
 	<url>
-		<loc>https://sutanlab.js.org/blog/berkenalan-dengan-pdo-di-php/</loc>
-	</url>
-	
-	<url>
-		<loc>https://sutanlab.js.org/blog/apakah-php-akan-mati/</loc>
+		<loc>https://sutanlab.js.org/jekyll-starter-blog/text-formatting-examples/</loc>
 	</url>
 	
 </urlset>
