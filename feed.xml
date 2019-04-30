@@ -5,16 +5,16 @@
     <description>A blog and journal about Sutan Nst, Junior Developer</description>
     <link>https://sutanlab.js.org/jekyll-starter-blog/</link>
     <atom:link href="https://sutanlab.js.org/jekyll-starter-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Apr 2019 23:46:08 +0700</pubDate>
-    <lastBuildDate>Tue, 30 Apr 2019 23:46:08 +0700</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2019 23:59:42 +0700</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2019 23:59:42 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Berkenalan Dengan PDO di PHP</title>
+        <title>Belajar PDO di PHP</title>
         <description>&lt;h2 id=&quot;apa-itu-pdo-&quot;&gt;Apa itu PDO ?&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;“&lt;strong&gt;&lt;em&gt;PDO - PHP Data Object&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;adalah lapisan akses database yang menyediakan metode akses yang seragam ke beberapa database.&lt;/em&gt;”&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;PDO (PHP Data Object) adalah interface universal yang disediakan PHP untuk “berkomunikasi” dengan database server. Maksud istilah “interface universal” disini adalah bahwa PDO tidak terikat dengan aplikasi database tertentu. Apabila saat ini kita menggunakan database MySQL dan dikemudian hari ingin bermigrasi menggunakan PostgreSQL, kita hanya tinggal mengganti cara pemanggilan awal PDO dan seluruh kode program yang ada bisa langsung digunakan untuk database baru.&lt;/p&gt; &lt;p&gt;Kondisi ini berbeda jika menggunakan mysql extension atau mysqli extension. Kedua extension...</description>
         <pubDate>Fri, 26 Oct 2018 22:29:02 +0700</pubDate>
-        <link>https://sutanlab.js.org/jekyll-starter-blog/berkenalan-dengan-pdo-di-php/</link>
-        <guid isPermaLink="true">https://sutanlab.js.org/jekyll-starter-blog/berkenalan-dengan-pdo-di-php/</guid>
+        <link>https://sutanlab.js.org/jekyll-starter-blog/belajar-pdo-di-php/</link>
+        <guid isPermaLink="true">https://sutanlab.js.org/jekyll-starter-blog/belajar-pdo-di-php/</guid>
         
         <category>php</category>
         
